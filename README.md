@@ -1,1 +1,2 @@
-# Stroke-Disease-Detection
+# Stroke Disease Detection
+
